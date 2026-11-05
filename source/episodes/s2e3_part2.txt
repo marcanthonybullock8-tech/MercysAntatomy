@@ -1,0 +1,191 @@
+X: ACT TWO
+
+H: INT. QUEENS GRACE HOSPITAL - OR 2 - CONTINUOUS
+T: TUESDAY, OCTOBER 4, 2005 - 7:53 AM
+A: Chaos at the edges, absolute stillness at the center. The circulating nurse is on the wall phone. The anesthesiologist kneels beside Amond with a blood pressure cuff. Robert keeps his hands exactly where they are, finishing a stitch in an arrested heart, because the patient on the table has no one else.
+C: ANESTHESIOLOGIST| (on the floor beside Amond)| Pressure's seventy over forty. Heart rate one-thirty-eight. He's thready. (beat) He's bleeding from below. Lots of it. Dark.
+C: ROBERT| (sewing, his voice shaking for the first time anyone in this room has ever heard)| Lower GI. Meckel's diverticulum. Four centimeters, ectopic gastric mucosa. (beat) Dr. Lowery has the chart. Tell him "Baker's Meckel's." He'll know.
+C: CIRCULATING NURSE| (into the phone)| Overhead page Dr. Lowery to OR Two, stat. "Baker's Meckel's." (beat) And send the trauma team.
+C: ROBERT| (to the anesthesiologist)| Two large-bore IVs. Type and cross six units. O-negative from the OR fridge until it's ready. (beat) Lay him flat. Legs up.
+A: The anesthesiologist's tech gets a line into Amond's arm. Amond's eyes flutter open, unfocused.
+C: AMOND| (slurred)| Sir... the graft...
+C: ROBERT| (not looking away from the heart)| The graft is fine, Dr. Baker. I'm finishing your graft. (beat) You hold still.
+C: AMOND| (barely)| I'm sorry.
+C: ROBERT| (beat, his jaw tight)| Don't. (beat) Not now. Later. You can be sorry later. (beat) You have to be alive to be sorry.
+A: Robert ties off the anastomosis. His hands are perfectly steady. His face is not.
+
+H: INT. QUEENS GRACE HOSPITAL - LABOR AND DELIVERY - CORRIDOR - DAY
+T: TUESDAY, OCTOBER 4, 2005 - 7:56 AM
+A: Marc is writing in Nadia's chart at the station when his phone buzzes. A text from Arianna.
+I: SMS, from ARIANNA: "baker collapsed OR 2. GI bleed. big. go"
+A: Marc is already running. Clayton, coming around the corner, sees him go.
+C: CLAYTON| (calling after him)| Bullock?
+C: MARC| (over his shoulder, running)| Baker!
+A: Clayton looks at the empty corridor for a second. Then he picks up the station phone.
+C: CLAYTON| (into the phone)| This is Hartwell. Blood bank. (beat) Whatever OR Two is asking for, send double.
+
+H: INT. QUEENS GRACE HOSPITAL - OR 2 - DAY
+T: TUESDAY, OCTOBER 4, 2005 - 8:01 AM
+A: Lowery bursts in, cap half on, still in his white coat. Two trauma nurses with a gurney behind him. Marc right behind them.
+C: LOWERY| (seeing the blood on the floor)| Lord God. (kneeling) Son. Amond. Look at me.
+C: AMOND| (focusing, barely)| Fever, black stool or syncope. (beat, a ghost of a smile) Pick two.
+C: LOWERY| (grim)| You picked all three. (to the nurses) On the gurney. OR Seven. It's open. (beat) Hemoglobin?
+C: ANESTHESIOLOGIST| (reading a slip)| Point-of-care, six point four.
+A: Marc is on his knees beside the gurney before anyone tells him to, helping slide Amond across. Amond's hand finds his wrist and grips it.
+C: AMOND| (whispering)| Don't tell my mother.
+C: MARC| (steady)| Your mother's going to find out, Amond. You're going to be alive when she does.
+C: LOWERY| (to Marc, as they lift the gurney)| Bullock. You're scrubbing with me.
+A: Marc looks up, startled.
+C: LOWERY| (moving)| Boykin's in the Pit with my perforated ulcer. Elxa's in OR Three with a liver. You're the only pair of surgical hands I can find in the next ninety seconds. (beat) You'll assist. And you won't cry on my field. Can you do that?
+C: MARC| (beat, standing)| Yes, sir.
+A: They roll. At the table, Robert keeps sewing. He can't turn around. He listens to them go.
+C: ROBERT| (to no one, very quiet)| Go. (beat) Go.
+
+H: INT. PELL PAVILION - THE PIT - TRAUMA 3 - DAY
+T: TUESDAY, OCTOBER 4, 2005 - 8:05 AM
+A: Kareem on the phone. Harmony stands beside the bed. DR. THADDEUS BOYKIN (30), PGY-3, lanky, with wire glasses and a Rutgers T-shirt under his white coat, arrives breathless.
+C: BOYKIN| Divine. Lowery's gone. He said, "Boykin, you have my ulcer." (beat) Hi. I'm the ulcer guy now.
+C: KAREEM| (into the phone)| Yes, Imam. (beat) Yes. (beat) I understand. (beat) May Allah reward you. (he hangs up)
+A: He lies back. Aminah takes his hand. A long beat.
+C: KAREEM| (to Harmony)| The Imam said the same thing you said. (beat) And then he said: "Kareem, the strongest faith in the world isn't worth a hole in your stomach." (beat) He also said I'm stubborn.
+C: AMINAH| (dry)| He's known you since 1975.
+C: KAREEM| (to Boykin)| Do what you need to do, Doctor. (beat) I'll make the day up after Eid.
+C: BOYKIN| (to Gloria)| Hang it. Pip-tazo, pantoprazole and an NG tube. OR in thirty minutes. (to Harmony) You're with me. You're going to do more of this than you expect.
+C: HARMONY| (beat)| Lowery's patient. Lowery left.
+C: BOYKIN| (pushing the gurney)| Lowery's operating on an intern who almost bled out in a cardiac OR. (beat) Today you're operating on Lowery's patient.
+
+H: INT. QUEENS GRACE HOSPITAL - OR 7 - DAY
+T: TUESDAY, OCTOBER 4, 2005 - 8:24 AM
+A: Amond under general anesthesia, intubated, three units of blood hanging, a rapid infuser warming them. His belly is open through a short lower midline incision. Lowery operates. Marc assists, his hands steady inside his best friend's abdomen. An ANESTHESIOLOGIST pumps a bag of blood.
+C: LOWERY| (running the small bowel hand over hand)| Ileocecal valve. Measuring back. (beat) Thirty centimeters. Forty. (beat) Fifty-five. (beat) There.
+A: Sticking out of the side of the bowel like a thumb: a purple, inflamed pouch, about four centimeters long. And at its base, on the bowel wall opposite it, a deep, angry ulcer with a vessel spurting bright red into the lumen.
+C: MARC| (quietly)| The ectopic gastric mucosa ulcerated the ileum across from it. (beat) It's eaten into a branch of the mesenteric.
+C: LOWERY| Right. Which means I'm not just taking the diverticulum. I'm taking the segment. (beat) Clamps. Bullock, hold this loop and do not let go.
+A: Marc holds the loop of bowel. Lowery clamps the mesentery above and below.
+C: ANESTHESIOLOGIST| Pressure's eighty over fifty. Hemoglobin on the gas is five point nine.
+C: LOWERY| (working fast)| Keep pumping. (beat) Bullock, talk to me. What happens if we lose him on this table?
+C: MARC| (absolutely steady)| We don't.
+C: LOWERY| (glancing up)| That's not a medical answer, son.
+C: MARC| (eyes on the bowel)| It's not a medical question.
+A: Lowery almost smiles under his mask. Through the glass of the viewing gallery, unnoticed: Robert, gown off and sweat-soaked, his CABG closed by his fellow, standing with both hands flat on the glass.
+
+H: INT. QUEENS GRACE HOSPITAL - OR 7 - VIEWING GALLERY - DAY
+T: TUESDAY, OCTOBER 4, 2005 - 8:41 AM
+A: Robert stands at the glass looking down. The door opens behind him. Natasha (47), out of breath, comes in and stands beside him. Below them, Lowery and Marc work on Amond.
+C: NATASHA| (quietly)| Bernie heard the overhead page. "Baker's Meckel's." (beat) Robert. You knew.
+C: ROBERT| (not turning)| For three weeks. (beat) Since the scrub room at Staten Island. September eighth. He was holding his side.
+C: NATASHA| And you let him wait until the fourteenth.
+C: ROBERT| (beat)| I let him choose. (beat) He's a grown man and a physician, and he had capacity. I wrote everything down. I had his word. (beat) And last night he saw blood and didn't call me.
+C: NATASHA| (beat)| How do you know he saw it last night?
+C: ROBERT| (very quiet)| Because he didn't send Marc his five-fifteen text this morning. (beat) He's sent it every day since August. Marc told the anesthesiologist.
+A: Below them, the anesthesiologist calls something. Lowery's voice rises. They can't hear through the glass. Natasha grips Robert's arm.
+C: NATASHA| (barely)| What's happening?
+A: Robert leans toward the glass, reading the monitors upside down from fifteen feet away, a cardiac surgeon's eyes.
+C: ROBERT| (flat, terrible)| Pressure's sixty.
+A: Below, Lowery shouts, and this time they hear it through the glass:
+C: LOWERY| (muffled)| HANG EVERYTHING WE HAVE. NOW.
+X: END OF ACT TWO
+
+X: ACT THREE
+
+H: INT. QUEENS GRACE HOSPITAL - OR 7 - DAY
+T: TUESDAY, OCTOBER 4, 2005 - 8:43 AM
+A: Blood pours into Amond from four bags at once through the rapid infuser. The anesthesiologist pushes phenylephrine. Lowery's hands are inside the mesentery.
+C: LOWERY| The clamp slipped on the mesenteric branch. (beat) Bullock. Two fingers. Right here. Press until I tell you to stop.
+A: Marc presses two fingers down on the bleeding vessel. The spurting stops under his fingertips. He doesn't move. He doesn't breathe.
+C: LOWERY| (placing a new clamp beneath Marc's fingers)| Good. (beat) Don't move. (beat) Don't move. (beat) Okay. Lift.
+A: Marc lifts his fingers. The clamp holds. No bleeding.
+C: ANESTHESIOLOGIST| (beat)| Pressure seventy-five. Eighty. Eighty-eight over fifty-two. (beat) He's coming up.
+A: Marc lets out a breath he's been holding for a minute and a half.
+C: LOWERY| (tying off the vessel)| Ligated. (beat) Now we take the segment. Stapler.
+A: Lowery fires the linear stapler across the bowel above and below the diverticulum and the ulcer, then lifts the diseased segment out. Fifteen centimeters of purple, bleeding bowel, with the Meckel's diverticulum hanging off it like an accusation.
+C: LOWERY| (dropping it in the basin)| There's your demon, Dr. Baker. (beat) Side-to-side stapled anastomosis. Bullock, you're going to close the common enterotomy. Running three-oh Vicryl.
+C: MARC| (beat)| Me?
+C: LOWERY| (handing him the needle driver)| You held a bleeding mesenteric artery with two fingers for ninety seconds and didn't blink. (beat) You can sew bowel, son.
+A: Marc takes the needle driver. He begins to sew. Steady, even, perfect stitches in his best friend's intestine.
+C: MARC (V.O.)| They teach you that the worst thing in surgery is losing control. (beat) They don't tell you about the other thing. Being handed it.
+
+H: INT. QUEENS GRACE HOSPITAL - OR 3 - DAY
+T: TUESDAY, OCTOBER 4, 2005 - 9:10 AM
+A: Tyrell Pickens's second look. The temporary closure is open. Elxa, on her tall stool, and Raven remove the laparotomy pads one by one from around the liver. Each one comes out heavy and red, but nothing gushes behind it.
+C: ELXA| (lifting the last pad)| Last one. (beat) Watch the raw surface.
+A: Everyone watches. The torn liver oozes a little, then stops. The clot holds.
+C: RAVEN| (exhaling)| It's holding.
+C: ELXA| It's holding. (beat) Warm, resuscitated, coagulopathy corrected. This is why we wait forty-eight hours. (beat) Bullet stays where it is, next to the cava. He'll carry it to North Carolina. Set off a metal detector at the Raleigh airport someday.
+A: Raven laughs. Then she glances at the door.
+C: RAVEN| (low)| Is it true? Amond?
+C: ELXA| (beat, eyes on the liver)| Gloria called the board. He collapsed in OR Two. (beat) Lowery and my brother have him in Seven.
+A: Raven stops. Turns her head. Elxa doesn't notice what she just said. Raven does.
+C: RAVEN| (very carefully)| Your... brother?
+A: A beat. Elxa's hands freeze for half a second over Tyrell's liver. Then she keeps working, as if nothing happened.
+C: ELXA| (evenly)| Lowery and Bullock. Close the fascia, Ellison. Number one PDS. (beat) Looped.
+A: Raven picks up the suture. Her eyes stay on Elxa for a long moment above her mask. Then she starts to close.
+
+H: INT. QUEENS GRACE HOSPITAL - OR 4 - DAY
+T: TUESDAY, OCTOBER 4, 2005 - 9:15 AM
+A: Kareem Shabazz's belly is open. Boykin operates. Harmony assists. In the first part of the duodenum, just past the stomach: a neat, round hole, the size of a pencil eraser, edges inflamed, leaking.
+C: BOYKIN| Anterior duodenal perforation. Classic. (beat) Graham patch. You know what that is, Divine?
+C: HARMONY| (beat)| You don't sew the hole closed. The tissue's too inflamed; it'll tear. You put sutures across it and tie a piece of omentum over it. Like a cork.
+C: BOYKIN| (impressed)| Like a cork. (beat) Hand me the omentum.
+A: Harmony mobilizes a tongue of fatty omentum and brings it up to the hole. Boykin places three sutures across the perforation.
+C: BOYKIN| (holding out the needle driver)| Tie them down over the omentum. Snug. Not strangling. You're tucking it in, not hanging it.
+A: Harmony takes it, ties the first suture. Then the second. Then the third. The omentum sits over the hole like a plug.
+C: BOYKIN| (checking)| Watertight. (beat) Good. (beat) Yesterday two Australians won the Nobel Prize for discovering this hole is caused by a bacterium. (beat) Today we test him for H. pylori, give him two weeks of antibiotics, and he never gets another one.
+C: HARMONY| (beat)| He refused the IV this morning because of the fast.
+C: BOYKIN| (irrigating)| And then you quoted the Quran at him. (beat) Lowery told me. Ninety seconds before he ran out. (beat) He said, "Divine talked a man out of dying for his principles." (beat) That's not in the curriculum.
+
+H: INT. QUEENS GRACE HOSPITAL - INTERNS' LOCKER ROOM - DAY
+T: TUESDAY, OCTOBER 4, 2005 - 10:02 AM
+A: Arianna, at her locker, pulls a clean scrub top over her head. Kennerly comes in, on his way somewhere, and stops.
+C: KENNERLY| (casual)| So Baker crashed in a cardiac OR. Hemorrhaged on the floor. (beat) Should've known. The guy runs on espresso and contempt.
+C: ARIANNA| (not turning)| Say one more word about Baker, Kennerly, and you'll be the one bleeding on the floor.
+C: KENNERLY| (holding up his hands)| Relax, Gary. (beat) I'm just making conversation. (beat) Hey. Bullock assisted on him? With Lowery? (beat) An intern, assisting on a hemorrhaging laparotomy in his fourth month. (beat) Lowery's never let me hold a retractor without yelling.
+C: ARIANNA| (shutting her locker)| Lowery's met you.
+C: KENNERLY| (beat, curious, too casual)| I'm just saying. Bullock gets the good cases. The good attendings. The Chief smiles at him. (beat) Where's he from, anyway? Bullock?
+A: Arianna turns and looks at him for a long, flat moment.
+C: ARIANNA| (deadpan)| Washington, D.C. His grandfather drove a bus. (beat) And Lowery picked him because he was the only intern in the hallway who wasn't you.
+A: She walks out. Kennerly watches her go. He takes out a small notebook and writes something down.
+
+H: INT. QUEENS GRACE HOSPITAL - INFUSION CENTER - DAY
+T: TUESDAY, OCTOBER 4, 2005 - 11:22 AM
+A: A bright room of recliners, IV poles and patients in blankets. DANIELLE PRYOR-HOLLIS (26), second cycle of AC chemotherapy running into her port (pushed back a day for her blood counts), sits with a wool cap in her lap. Kevin (29) sits beside her. Esther passes by the open door on her way to the neuro floor, and Danielle calls out.
+C: DANIELLE| Dr. Smilley!
+A: Esther stops. Comes in, surprised.
+C: ESTHER| Mrs. Hollis. How are you doing?
+C: DANIELLE| (holding up a hand: a clump of hair between her fingers)| It started on Saturday. In the shower. (beat) I wanted to do it before it does it. (beat) I asked the nurse for clippers. She's getting some. (beat) Will you do it? I don't want Kevin to.
+C: KEVIN| (gently)| I'd do it.
+C: DANIELLE| I know you would, baby. (beat) That's why I don't want you to. I don't want the last thing you see of my hair to be you taking it.
+A: The NURSE comes back with electric clippers and hands them to Esther. Esther looks at them. Then at Danielle.
+C: ESTHER| (quietly)| Okay.
+A: She turns them on. A buzz. She runs them gently from Danielle's forehead back. A thick strip of hair falls onto the blanket. Danielle closes her eyes. Esther keeps going, careful, slow.
+C: DANIELLE| (eyes closed)| I heard about you. The husband. From Boston. (beat) The nurses talk.
+C: ESTHER| (beat, working)| Everybody talks.
+C: DANIELLE| (beat)| At my wedding I said, "I decide you." (beat) You know what I meant? (beat) I didn't mean I decided Kevin was enough. I meant I decided I wasn't going to wait for something to decide for me. Not cancer. Not my mother's history. Not his mother. (beat) Me.
+A: Esther's hands slow.
+C: DANIELLE| (opening her eyes)| Twenty-something days, they said. Thirty days. (beat) Don't let the calendar decide, Dr. Smilley.
+A: The last of the hair falls. Danielle's scalp is smooth. She runs a hand over it. Kevin takes the clippers out of Esther's hand, turns them on, and runs them right down the middle of his own head.
+C: DANIELLE| (laughing, crying)| KEVIN.
+C: KEVIN| (grinning, a bald stripe down his scalp)| For better or worse, I said. (beat) This is the worse. It's very cold.
+
+H: INT. QUEENS GRACE HOSPITAL - LABOR AND DELIVERY - ROOM 6 - DAY
+T: TUESDAY, OCTOBER 4, 2005 - 12:10 PM
+A: A fetal echo. A FETAL CARDIOLOGIST scans Nadia's belly. Clayton watches the screen. Malik watches Clayton.
+C: FETAL CARDIOLOGIST| Ductus is open. No constriction. Contractions every twenty minutes now.
+C: CLAYTON| (exhaling)| The indomethacin's working. (to Nadia) He's quieter, Mrs. Ellerbe. So is your uterus. (beat) Twenty-six weeks and two days. We're winning.
+C: MALIK| (beat)| Where's Dr. Bullock?
+C: CLAYTON| (beat)| In surgery. On a friend. (beat) He'll be back.
+C: NADIA| (weakly)| A friend? (beat) Is the friend okay?
+A: Clayton looks at the closed door a moment.
+C: CLAYTON| (honest)| I don't know yet.
+
+H: INT. QUEENS GRACE HOSPITAL - OR 7 - DAY
+T: TUESDAY, OCTOBER 4, 2005 - 12:40 PM
+A: The end of the operation. Lowery closes the fascia. Marc closes the skin with staples. Amond is pink again under the drapes, six units of blood later. The anesthesiologist checks a final gas.
+C: ANESTHESIOLOGIST| Hemoglobin nine point one. Pressure one-ten over sixty-eight. He's stable.
+C: LOWERY| (stepping back from the table, pulling down his mask)| Fifteen centimeters of ileum and a Meckel's diverticulum with an ulcer in it you could put your thumb in. (beat) Eleven days early. (beat) If he'd made it to the fourteenth, I'd have been doing this on a corpse.
+A: Marc keeps stapling. His hands are steady. But when he finishes, he stands at the table with his gloved hands resting on the drapes over his friend's chest and doesn't move.
+C: LOWERY| (gently)| Bullock. (beat) You can step back now.
+C: MARC| (not moving)| He sends me a text every morning at five-fifteen. "You're late." (beat) Even when I'm not late.
+C: LOWERY| (beat)| Then tomorrow morning, you'll be late. (beat) And he'll be alive to tell you.
+A: Marc steps back from the table. He pulls off his gloves and walks out of the OR, through the scrub room and into the hall, where he stops, puts both hands over his face and finally lets himself shake.
+X: END OF ACT THREE
