@@ -1,0 +1,278 @@
+X: COLD OPEN
+
+H: INT. ARIANNA'S APARTMENT - ABOVE THE BAKERY - ASTORIA - PRE-DAWN
+T: WEDNESDAY, NOVEMBER 9, 2005 - 5:14 AM
+A: A small, spare rented room above a Greek bakery on 30th Avenue. The ovens downstairs are already going, and the floorboards are warm. Arianna (26) sits on the edge of her bed in a Pitt sweatshirt, a Dell laptop balanced on her knees, the dial-up modem shrieking.
+A: On the screen: the NBME secure website. "USMLE STEP 2 CK -- SCORE REPORT AVAILABLE." Her cursor hovers. She clicks.
+A: The page loads one line at a time. "RESULT: FAIL."
+A: She doesn't move. Downstairs, Mr. Kostas drops a sheet pan and swears in Greek. Arianna closes the laptop very gently, as if it might go off.
+C: MARC (V.O.)| Surgeons are taught to fix things. (beat) It's the whole job. Something's broken, you open it up, you put it right.
+A: She opens the laptop again. Same line. "FAIL." Below it, in small print, the numbers she will memorize before she gets to work: three points short.
+C: ARIANNA| (to the empty room, flat)| Okay. (beat) Okay.
+
+H: INT. QUEENS GRACE HOSPITAL - CHIEF'S OFFICE - PRE-DAWN
+T: WEDNESDAY, NOVEMBER 9, 2005 - 5:41 AM
+A: Natasha (47), in a cashmere wrap, a mug of tea going cold on the blotter. Franklin Bassett (47), General Counsel, in yesterday's suit, sets a FedEx envelope in front of her. Its letterhead reads "THE JOINT COMMISSION -- OFFICE OF QUALITY MONITORING."
+C: BASSETT| It came to my house at nine last night. (beat) A courier. To my house, Natasha.
+A: Natasha reads. Her face gives away nothing.
+C: NATASHA| (reading aloud, even)| "...has received a complaint regarding potential conflicts of interest in the supervision and evaluation of a resident physician related to members of hospital leadership..." (beat) "...requests a written response..." (beat) "...reserves the right to conduct an unannounced for-cause survey."
+C: BASSETT| (sitting)| It's anonymous. (beat) It's also Horace Whitlow. The second paragraph uses the word "nepotistic." Horace is the only man in Queens who still uses "nepotistic."
+C: NATASHA| (setting the letter down)| What do you want to do, Franklin?
+C: BASSETT| I want to go upstairs and throw his good tea set out the window. (beat) What I'll do is draft a response that buries them in documentation. (beat) And I want you to let me go after him.
+C: NATASHA| (beat)| No.
+C: BASSETT| Natasha...
+C: NATASHA| (standing, going to the window)| If I fight Horace, it becomes a war about me. (beat) If I fight the Joint Commission, it becomes a war about my son. (beat) Neither of those is a war I win. (beat) We answer every question. We open every chart. (beat) And we let it be.
+C: MARC (V.O.)| But sometimes the hardest thing a surgeon ever learns...
+A: Across the river, the sky over Manhattan turns the color of a bruise. Natasha picks up the phone and dials one extension.
+C: NATASHA| (into the phone)| Elxa. (beat) It's your mother. (beat) I need you in my office before rounds. (beat) Bring the call schedule.
+C: MARC (V.O.)| ...is when to keep their hands still.
+X: END OF COLD OPEN
+
+X: ACT ONE
+
+H: INT. THE HOUSE ON 49TH AVENUE - KITCHEN - MORNING
+T: WEDNESDAY, NOVEMBER 9, 2005 - 6:04 AM
+A: The kitchen. On the refrigerator, under a Howard University magnet, is a note in a schoolteacher's perfect cursive: "Pound cake in the tin. Eat a vegetable. Call your father. -- Grandma." The small TV on the counter plays NY1: "BLOOMBERG ROUTS FERRER, WINS SECOND TERM."
+A: Marc (26) butters toast. Harmony (26) pours coffee. Amond (26) eats standing up, reading a cardiac journal. Raven (25) is at the counter, thumbing her RAZR.
+C: HARMONY| (setting a mug in front of Marc, with a deep, theatrical bow)| Your coffee, Mr. Donohue. (beat) Would Mr. Donohue like his toast on a silver tray?
+C: MARC| (dry)| It's been five days.
+C: HARMONY| And I've got about six more weeks of this in me. (beat) You owe me a lot of jokes, Marc-Anthony.
+C: AMOND| (not looking up)| She's earned them.
+A: Raven snaps her phone shut, frowning.
+C: RAVEN| Arianna's not answering. (beat) She always texts me back by six. She texts "k" just to make me crazy, but she texts back.
+C: RAVEN| (beat)| It's Wednesday.
+C: AMOND| (looking up now)| Oh. (beat) Scores.
+A: A beat. Everyone in the kitchen knows what Wednesday means. Raven grabs her bag and is out the door before her coffee's poured.
+
+H: INT. QUEENS GRACE HOSPITAL - INTERNS' LOCKER ROOM - MORNING
+T: WEDNESDAY, NOVEMBER 9, 2005 - 6:31 AM
+A: Banging lockers. Arianna changes into scrubs with her back to the room, moving fast. Raven comes in, out of breath.
+C: RAVEN| (quietly)| Hey.
+C: ARIANNA| (not turning around)| Hey.
+C: ARIANNA| (turning, a hard, bright smile)| It's fine. It's a test. (beat) We've got rounds.
+A: Across the room, Kennerly (27) sits alone on the bench tying his shoes. Five days ago, people sat next to him. Now there's a full foot of empty bench on either side. Esther (26) walks past him without a glance. So does Harmony. He keeps tying his shoe.
+A: Marc comes in, opens his locker, and stops. Taped inside, someone has stuck a Monopoly "Get Out of Jail Free" card. He looks at it, peels it off, and drops it in the trash.
+C: ESTHER| (beside him, low)| That's the third one this week.
+C: MARC| (beat)| Fourth. (beat) Somebody put a Rich Uncle Pennybags on my clipboard Monday.
+C: ESTHER| (beat, almost smiling)| He does look a little like your grandfather.
+A: It's the first thing she's said to him in days that wasn't about a patient. They both seem to notice. Esther closes her locker and goes.
+
+H: INT. QUEENS GRACE HOSPITAL - SURGICAL FLOOR - NURSES' STATION - MORNING
+T: WEDNESDAY, NOVEMBER 9, 2005 - 6:46 AM
+A: The interns gather for assignments. Elxa (28), 26 weeks and 5 days pregnant, her scrub top stretched, a clipboard on her belly like a shelf. She looks like she's been up since four, and she has.
+C: ELXA| Listen up. Effective today, by order of the Chief of Surgery, there are changes to the service schedule. (beat) Dr. Bullock will not rotate on, take call for, or be evaluated by Cardiothoracic or Obstetrics and Gynecology for the rest of his intern year.
+A: Silence. Every head turns to Marc. Kennerly, at the back, watches with great interest.
+C: ELXA| (continuing, flat)| Dr. Bullock's evaluations will be written by Dr. Lowery, Dr. Crump and Dr. Graves, and countersigned by the program director. I won't be evaluating him either. (beat) That's not a punishment. It's a firewall. Anybody who wants to make it into a punishment can come see me.
+C: KENNERLY| (pleasantly)| What about Smilley?
+A: Elxa turns very slowly.
+C: KENNERLY| (shrugging)| Her husband's an attending. (beat) I'm just asking for consistency.
+C: ELXA| (beat, ice)| Dr. Smilley hasn't scrubbed with Dr. Hartwell since Monday, by her own request, and she's going to Neuro. (beat) Thank you for your interest in consistency, Kennerly. You'll be in the ER with Nurse Pettiford, consistently, all day.
+C: ELXA| (reading off)| Bullock, Ellison: Lowery, general. Baker: Cardio, with Dr. Robert Bullock. Smilley: Neuro, Dr. Graves. Divine: Ortho consult, Dr. Toussaint is waiting in the pit. Cummings: Lowery.
+A: The interns scatter. Marc lingers.
+C: MARC| (low)| Cardio. For the whole year.
+C: ELXA| (beat, quieter)| Mama didn't have a choice, Marc. (beat) Whitlow went to the Joint Commission.
+A: Marc absorbs that.
+C: ELXA| (beat)| Every case you scrub from now on is going to be looked at by somebody who wants it to be dirty. (beat) So make them all clean.
+C: MARC| They were always clean.
+C: ELXA| (beat)| I know, baby brother. (beat) Now prove it on paper.
+
+H: INT. QUEENS GRACE HOSPITAL - EMERGENCY DEPARTMENT - BAY 3 - MORNING
+T: WEDNESDAY, NOVEMBER 9, 2005 - 7:18 AM
+A: MOTHER CORNELIA HAYNES (81), tiny and elegant in a lavender church suit she insisted on wearing to the ER, sits upright on the gurney. Her skin, a deep brown, has a faint gold cast. So do the whites of her eyes. Beside her, arms folded, stands her daughter DEBORAH HAYNES-PRICE (55), a vice principal in a pantsuit.
+A: Lowery (58) reads the chart. Marc, Raven and Arianna stand at the foot of the bed.
+C: LOWERY| Mrs. Haynes. I'm Dr. Lowery. (beat) These are Drs. Bullock, Ellison and Cummings.
+C: CORNELIA| (bright, regal)| Mother Haynes, baby. I've been Mother Haynes at Abyssinian since 1979. Nobody's called me Mrs. since my husband passed.
+C: LOWERY| (a small smile)| Mother Haynes.
+C: DEBORAH| She's yellow. (beat) She's been yellow for a week and she told me it was the light in her kitchen.
+C: RAVEN| (stepping up)| Mother Haynes, any pain? (beat) Any itching?
+C: CORNELIA| (beat, admitting it)| Like the devil. At night.
+C: RAVEN| Has your urine been dark? Stool pale?
+C: CORNELIA| (smiling at her)| Tea and clay. (beat) You're good. (beat) I was a nurse at Harlem Hospital forty-four years, child. 1947 to 1991. (beat) I know what painless jaundice means in an eighty-one-year-old woman.
+A: The room goes quiet. Deborah looks at her mother.
+C: DEBORAH| What does it mean?
+C: CORNELIA| (gently, to Lowery)| Go on and get your CT scan, Doctor. (beat) Then we'll all know together.
+C: LOWERY| (quietly)| Yes, ma'am.
+
+H: INT. QUEENS GRACE HOSPITAL - EMERGENCY DEPARTMENT - THE PIT - MORNING
+T: WEDNESDAY, NOVEMBER 9, 2005 - 7:26 AM
+A: Chaos. Gloria Pettiford (53) commands the board like a general. Kennerly stands beside her, and she's ignoring him on purpose. Harmony crosses to a curtained bay where Camille Toussaint (29), in her Saints jacket over her scrubs, is examining DEACON OTIS "BULLDOG" MERRIWEATHER (61), a lean, silver-goateed man with a runner's legs. His right leg is shortened and rotated outward. His wife MAVIS (59) holds his hand.
+C: CAMILLE| (not looking up)| Choir! Look at this leg and tell me what you see.
+C: HARMONY| (looking)| Shortened. Externally rotated. (beat) Femoral neck fracture.
+C: CAMILLE| (delighted)| She sings, she reads films. (beat) Deacon Merriweather ran the New York City Marathon on Sunday.
+C: OTIS| (proudly, through gritted teeth)| My twentieth. Four fifty-one. (beat) Hip started hurting at mile eighteen in the Bronx. (beat) Twentieth one, I wasn't stopping.
+C: MAVIS| (to Harmony)| He's been limping since Sunday. (beat) This morning he got off the Q32 bus, put his foot down, and went down like a tree.
+C: CAMILLE| (to Harmony)| Stress fracture. He ran on it for eight miles. Then he walked on it for three days. (beat) This morning it let go.
+C: OTIS| (wincing)| Did you see the finish Sunday? Tergat and Ramaala? (beat) Thirty-two hundredths of a second. Two men, twenty-six miles, and it came down to a lean.
+C: OTIS| I'm running Boston in April.
+A: Camille and Harmony exchange a look.
+C: CAMILLE| (warmly)| Let's get you some pictures first, Deacon.
+
+H: INT. QUEENS GRACE HOSPITAL - CARDIOTHORACIC OFFICE - MORNING
+T: WEDNESDAY, NOVEMBER 9, 2005 - 7:39 AM
+A: Robert Bullock (49) at his desk. A plastic model of a heart pump, the HEARTMATE XVE, sits on the desk, heavy as a brick. Amond stands across from him with a chart.
+C: ROBERT| (not looking up)| Winston Teague. Fifty-eight. Ischemic cardiomyopathy. Ejection fraction twelve percent. Creatinine two-point-four. (beat) Why isn't he getting a heart, Dr. Baker?
+C: AMOND| (instantly)| Pulmonary vascular resistance is too high, and his kidneys aren't good enough. The transplant committee turned him down in August. (beat) He's a candidate for destination therapy.
+C: ROBERT| Which means?
+C: AMOND| The pump isn't a bridge to a transplant. (beat) The pump is the destination. It's the rest of his life.
+A: Robert finally looks up.
+C: ROBERT| The FDA approved this device for destination therapy three years ago this month. (beat) The REMATCH trial. Survival at one year was fifty-two percent with the pump and twenty-five percent without. (beat) That's not a miracle. It's a coin toss with a better coin.
+C: AMOND| (beat)| He'd take the coin.
+C: ROBERT| (beat)| How do you know?
+C: AMOND| I talked to him at five this morning. (beat) His granddaughter's getting married in June at Riverside Church. (beat) He says he's going to play the drums at the reception if it kills him.
+A: Robert almost smiles. Then his eyes go to the door, where Marc has stopped outside, holding a chart for someone else. Father and son look at each other through the glass. Marc keeps walking.
+C: AMOND| (quietly)| It wasn't his fault, sir. The firewall.
+C: ROBERT| (beat, looking back at the pump)| I know whose fault it was, Dr. Baker. (beat) Book the OR for one o'clock.
+
+H: INT. QUEENS GRACE HOSPITAL - NEUROSURGERY - READING ROOM - MORNING
+T: WEDNESDAY, NOVEMBER 9, 2005 - 7:52 AM
+A: Dim. Light boxes glowing. Dr. Leland Graves (52), tall and gray at the temples, stands in front of an MRI with his reading glasses pushed up on his forehead. Esther stands beside him.
+C: GRAVES| Tell me what this is.
+C: ESTHER| (studying the film)| A round lesion at the foramen of Monro, about a centimeter and a half. Hyperdense. Both lateral ventricles are enlarged. (beat) Colloid cyst with obstructive hydrocephalus.
+C: GRAVES| What does a colloid cyst do?
+C: ESTHER| It sits there for twenty years doing nothing. (beat) Then one day it plugs the drain and the patient dies in their sleep.
+C: GRAVES| (beat, pleased)| Sudden death. It's in every textbook, and nobody believes it until it happens on their service. (beat) Simone Bracey. Nineteen. A sophomore at Queens College. Headaches for a month. Her mother found her this morning, vomiting and confused.
+C: ESTHER| (beat)| We're operating today.
+C: GRAVES| We're operating this morning. (beat) A transcallosal approach. You'll open.
+A: Esther looks at him. Graves lowers his glasses.
+C: GRAVES| (dry)| You held a retractor for me during a hurricane, Dr. Smilley. Hold the drill for me on a Wednesday.
+
+H: INT. QUEENS GRACE HOSPITAL - CAFETERIA - MORNING
+T: WEDNESDAY, NOVEMBER 9, 2005 - 9:02 AM
+A: A corner table. Raven sets down two coffees and sits across from Arianna, who is pretending to read a chart. Miss Hattie, behind the register, keeps one eye on them.
+C: RAVEN| Three points? Four?
+A: Arianna looks up sharply.
+C: RAVEN| (beat)| You're pretending to read a chart, Problem. You'd never pretend in front of me if you'd passed. (beat) You'd be insufferable. You'd make me call you "Doctor" in bed.
+C: ARIANNA| (beat, flat)| Three.
+C: ARIANNA| (low, furious at herself)| My school didn't require it before graduation. I put it off. I took it the second week of October, after eighty-hour weeks and a hurricane and a train crash. (beat) And I missed it by three points.
+C: RAVEN| When can you retake it?
+C: ARIANNA| Sixty days after the last attempt. (beat) December twelfth. (beat) QGH doesn't issue PGY-2 contracts without a pass. If I fail twice they don't have to renew me.
+C: RAVEN| Then you won't fail twice.
+C: ARIANNA| (beat)| Ellison. Don't.
+C: RAVEN| Don't what?
+C: ARIANNA| Don't fix it. (beat) Don't make flashcards. Don't color-code anything. (beat) My father couldn't stay clean, and my mother couldn't stay here, in her head, and I raised myself in Pittsburgh by not letting anybody see me need anything. (beat) Just let it be my problem.
+A: Raven looks at her for a long moment.
+C: RAVEN| (gently)| You know what your nickname is, right?
+C: ARIANNA| (beat)| Don't.
+C: RAVEN| (standing, picking up her coffee)| It was never "no problem," Arianna. (beat) It was always "Problem." (beat) And I like you anyway.
+A: She goes. Arianna stares at the coffee Raven left her. It has two sugars, exactly how she takes it.
+
+H: INT. QUEENS GRACE HOSPITAL - RADIOLOGY - CT READING ROOM - DAY
+T: WEDNESDAY, NOVEMBER 9, 2005 - 10:14 AM
+A: Lowery, Marc and Raven stand behind the radiologist, scrolling through Cornelia's CT slice by slice.
+C: RADIOLOGIST| Three-point-one centimeter hypodense mass in the head of the pancreas. Double duct sign: both the common bile duct and the pancreatic duct are dilated. (beat) The SMV is abutted but not encased. No liver lesions I can see. No ascites.
+C: RAVEN| (quietly)| It's resectable.
+C: LOWERY| (beat)| It's resectable on a picture.
+C: MARC| A Whipple.
+C: LOWERY| (turning to them)| Pancreaticoduodenectomy in an eighty-one-year-old woman. Six hours if it goes well. A two-week stay if it goes well. Maybe one in three get a major complication. (beat) Five-year survival in the best hands is maybe twenty percent.
+C: RAVEN| But it's the only cure.
+C: LOWERY| (beat)| It's the only chance of a cure, Dr. Ellison. You want to be a surgical oncologist, so learn the difference now. It'll save you a lot of nights.
+
+H: INT. QUEENS GRACE HOSPITAL - SURGICAL FLOOR - ROOM 512 - DAY
+T: WEDNESDAY, NOVEMBER 9, 2005 - 10:41 AM
+A: Cornelia, now in a gown with her church suit hung carefully in the closet and her pearls still on, sits in the bed. Deborah stands at the window. Her grandson BRANDON HAYNES-PRICE (22), a nursing student in Hunter-Bellevue scrubs, sits on the radiator. Lowery has just finished explaining. Marc and Raven stand at the foot of the bed.
+C: DEBORAH| (instantly)| So you take it out. (beat) When? Today? Tomorrow?
+C: LOWERY| (carefully)| It's a big operation, Mrs. Price. It's...
+C: DEBORAH| My mother walked four miles at Riverbank last Saturday. She's not frail. She's not some...
+C: CORNELIA| (quietly)| Deborah.
+C: DEBORAH| She's going to have the surgery.
+C: CORNELIA| (a little louder)| Deborah Ann.
+A: Deborah stops. Cornelia looks at Lowery.
+C: CORNELIA| Doctor, in your hands, how many of us eighty-one-year-olds walk out of here?
+C: LOWERY| (beat, honest)| Most of them walk out, Mother Haynes. (beat) Not all. (beat) And the ones who walk out spend the next three months getting their strength back. Some never get all of it back.
+C: CORNELIA| (beat)| And if I don't?
+C: LOWERY| (gently)| Then you have months. Maybe six. Maybe less. (beat) We can put a stent in the duct so the yellow goes away and the itching stops. That's a procedure, not an operation.
+C: CORNELIA| (folding her hands)| Then that's what I want.
+C: DEBORAH| (turning)| No.
+C: CORNELIA| (calm as Sunday)| I held the hand of every person who ever died on Ward K, baby. For forty-four years. (beat) I know what the hard way looks like, and I know what the easy way looks like. (beat) And I'm choosing.
+C: DEBORAH| (tears starting, furious)| You don't get to quit on me.
+C: CORNELIA| (beat, gently)| I'm not quitting, Deborah. (beat) I'm letting it be.
+A: Deborah walks out. Brandon looks at his grandmother, then at the door, torn, and follows his mother. Cornelia turns to Marc and Raven with a weary, gracious smile.
+C: CORNELIA| (beat)| Which one of you is going to tell me I'm wrong?
+A: Marc and Raven look at each other. Neither says a word.
+X: END OF ACT ONE
+
+X: ACT TWO
+
+H: INT. QUEENS GRACE HOSPITAL - SURGICAL FLOOR - CORRIDOR - DAY
+T: WEDNESDAY, NOVEMBER 9, 2005 - 10:52 AM
+A: Deborah paces by the elevators, wiping her eyes. Marc comes out of 512 and walks over to her. Raven hangs back.
+C: DEBORAH| (without turning)| Are you the one who's the Chief's son?
+A: Marc stops.
+C: DEBORAH| (bitter)| The nurse at the desk said it like it was the weather. "That's the Chief's son." (beat) So you have pull. So you go in there and tell her to have the surgery.
+C: MARC| (beat)| I don't have pull, Mrs. Price. (beat) And even if I did, it wouldn't change what your mother said.
+C: DEBORAH| (turning on him)| My mother delivered half of Harlem. She buried my father, my brother and three of her sisters. She raised me alone after 1968. (beat) And now she's just going to lie there and let it eat her?
+C: MARC| (quietly)| She's going to lie there and not be cut open from here to here, ma'am. (beat) That's not the same thing.
+C: DEBORAH| (beat)| How old are you?
+C: MARC| Twenty-six.
+C: DEBORAH| (wiping her face)| Twenty-six. (beat) Wait till it's your mother.
+A: The elevator opens. She gets in. The doors close on her. Marc stands there. Raven comes up beside him.
+C: RAVEN| (beat)| She's not wrong, you know. (beat) It's resectable.
+C: MARC| (beat)| Neither is her mother.
+
+H: INT. QUEENS GRACE HOSPITAL - EMERGENCY DEPARTMENT - THE PIT - DAY
+T: WEDNESDAY, NOVEMBER 9, 2005 - 11:08 AM
+A: Kennerly suctions a drunk's scalp laceration in Bay 9. Gloria hands him a suture kit without a word.
+C: KENNERLY| (not looking up)| You can say it, you know.
+C: GLORIA| (beat)| Say what, Dr. Kennerly?
+C: KENNERLY| Whatever everybody's saying. (beat) That I'm a snitch. That I'm a rat. (beat) Everybody else is saying it in the locker room.
+C: GLORIA| (beat, checking a chart)| I've been a nurse in this ER for thirty years. (beat) I've seen a dozen interns like you. Smart. Mean. Hungry. Thinks somebody's always getting something he's not. (beat) Most of them grow out of it.
+C: GLORIA| You gave that boy's name to the cafeteria. (beat) Don't expect anybody in here to save you a seat at lunch. (beat) But the man in Bay 9 doesn't care who your mama is. Or who you told what. (beat) Close his head.
+A: Kennerly ties his first knot. It's perfect. Gloria notices, and says nothing.
+
+H: INT. QUEENS GRACE HOSPITAL - CHIEF OF MEDICINE'S OFFICE - DAY
+T: WEDNESDAY, NOVEMBER 9, 2005 - 11:24 AM
+A: Whitlow (56) pours tea from his good set: bone china, gold rim. Kennerly stands at the door, still in his ER gown.
+C: WHITLOW| (not looking up)| I don't believe we have an appointment, Dr. Kennerly.
+C: KENNERLY| (low)| The Joint Commission letter came. (beat) Dr. Bullock moved him off Cardio. Elxa announced it at rounds. (beat) You said nobody would know where it came from.
+C: WHITLOW| (stirring)| Nobody does.
+C: KENNERLY| Everybody does. (beat) They know it was me in the cafeteria. They'll figure out the rest.
+C: WHITLOW| (setting down his spoon, mild)| Dr. Kennerly. You repeated a rumor to a nurse and a medicine resident. (beat) That's all you did. That's all anyone can prove. (beat) Anything else you think you know is your own imagination.
+C: KENNERLY| (beat)| You said you'd write my letter. (beat) For a fellowship. You said you'd talk to the program director about my probation.
+C: WHITLOW| (looking at him for the first time, pleasant and empty)| I don't recall that conversation. (beat) And I'd advise you not to recall it either. (beat) You're a surgical intern on probation, Dr. Kennerly. I'm the Chief of Medicine. (beat) We don't really know each other, do we?
+A: Kennerly stands there. Whitlow sips his tea and goes back to his papers. Kennerly leaves. He's a man who just realized he was the bullet, not the gun.
+
+H: INT. QUEENS GRACE HOSPITAL - OR 3 - DAY
+T: WEDNESDAY, NOVEMBER 9, 2005 - 11:40 AM
+A: Microscope draped. Simone Bracey's head is shaved in a neat strip and pinned in a Mayfield clamp. Graves, gowned, sits at the head of the table. Esther, gowned, holds a high-speed drill. The scrub nurse and the anesthesiologist watch the clock.
+C: GRAVES| (calm)| Burr holes. Two. Paramedian, just right of the sagittal sinus, here and here. (beat) Dr. Smilley, if you go into the sinus, she'll bleed out faster than you can say "Joint Commission."
+C: ESTHER| (steady)| I won't go into the sinus.
+C: GRAVES| (beat)| Show me.
+A: The drill whines. Bone dust. Esther's hands don't shake. The first burr hole goes through clean, the dura gleaming underneath. Then the second. Graves leans in.
+C: GRAVES| (quietly)| Good. (beat) Again. The craniotome.
+A: Esther connects the burr holes with the craniotome, and the bone flap comes up in one piece. Graves takes it from her and hands it to the scrub nurse.
+C: GRAVES| (beat)| Your hands are better than they were in the hurricane.
+C: ESTHER| (beat)| I've been practicing.
+C: GRAVES| On what?
+C: ESTHER| (beat)| Not falling apart.
+A: Graves looks at her over his mask. Then he slides the microscope into place.
+C: GRAVES| (gently)| Then let's see if it holds.
+
+H: INT. QUEENS GRACE HOSPITAL - SURGICAL FLOOR - NURSES' STATION - DAY
+T: WEDNESDAY, NOVEMBER 9, 2005 - 12:02 PM
+A: Russell Jeffries (30), Elxa's husband, a chemistry teacher in a tweed blazer with a lanyard that reads "AUGUST MARTIN HIGH SCHOOL," sets a foil-covered plate and a pamphlet on the counter. Elxa eyes both.
+C: RUSSELL| Oxtails. My mother made them. (beat) And that's the Lamaze class at Jamaica Hospital. It starts the fifth of December. Monday nights. (beat) I signed us up.
+C: ELXA| (lifting the foil, inhaling)| I'm on call Mondays.
+C: RUSSELL| You're on call every day, Elxa.
+C: ELXA| (beat)| I know how to breathe, Russell. I'm a surgeon.
+C: RUSSELL| (gently)| You know how to make other people breathe. (beat) It's different.
+A: Elxa looks at him. Then she picks up the pamphlet, reads it, and tucks it into her scrub pocket.
+C: ELXA| (beat, grudging)| Mondays.
+C: RUSSELL| (kissing her forehead)| Mondays.
+C: ELXA| (beat)| If I'm late, you breathe for both of us.
+C: RUSSELL| (beat, smiling)| I've been doing that since 2002.
+
+H: INT. QUEENS GRACE HOSPITAL - ORTHOPEDICS - READING ROOM - DAY
+T: WEDNESDAY, NOVEMBER 9, 2005 - 12:14 PM
+A: Otis's X-ray on the light box: a femoral neck fracture, displaced, the head of the femur tipped like a bottle cap. Camille and Harmony stand in front of it eating vending-machine peanut butter crackers.
+C: CAMILLE| Garden type four. Fully displaced. (beat) Choir. Your options.
+C: HARMONY| In a sixty-one-year-old? (beat) Reduce it and pin it with cannulated screws, so he keeps his own hip. (beat) Or replace it.
+C: CAMILLE| What happens if we pin it?
+C: HARMONY| A displaced fracture has torn the blood supply to the femoral head. (beat) The head may die anyway. Avascular necrosis. Nonunion. One in three, maybe more, end up back in the OR for a replacement in a year or two.
+C: CAMILLE| And if we replace it?
+C: HARMONY| A total hip. He's up the next day. (beat) But it's an implant. He's sixty-one. It might wear out by the time he's eighty. (beat) And he'd have to think hard about running marathons on it.
+C: CAMILLE| (crunching a cracker)| So?
+C: HARMONY| (beat)| So he wants his own hip back. (beat) And I'd want my own hip back.
+C: CAMILLE| (gently)| That's the problem with this job, Choir. What we want doesn't come into it. (beat) His bone already decided. It let go Sunday at mile eighteen. (beat) Sometimes the kindest thing is to stop trying to save what's already gone. Give him the new hip and let him walk out on Friday.
+A: Harmony looks at the X-ray. Then at Camille. Something in the way Camille said it isn't about bone.
+C: HARMONY| (beat)| Are we still talking about hips?
+C: CAMILLE| (beat, smiling, not answering)| Go consent him.
