@@ -1,0 +1,235 @@
+X: COLD OPEN
+
+H: INT. MTA Q4 BUS - LINDEN BOULEVARD, CAMBRIA HEIGHTS - PRE-DAWN
+T: THURSDAY, DECEMBER 1, 2005 - 5:41 AM
+A: An empty city bus idling at the first stop of the morning, its interior lights harsh in the dark. Howard Divine (55), in his MTA operator's jacket, takes a strip of black satin ribbon out of his lunch bag and ties it carefully across the first forward-facing seat behind him. He smooths the bow. He coughs, deep and wet, into his elbow.
+A: The doors hiss open. MISS ODELL BRIGHTWATER (78), in a wool coat and a church hat, climbs aboard with a cane and taps her MetroCard. She sees the ribbon and stops.
+C: MISS ODELL| (beat)| What's this, Howard?
+C: HOWARD| (quietly)| Fifty years ago today, Miss Odell. (beat) Montgomery. The Cleveland Avenue bus.
+A: Miss Odell looks at the ribbon for a long moment. Then she walks past it, takes a seat two rows back and folds her hands on her cane.
+C: MISS ODELL| (beat)| Nobody sits there today. (beat) Drive, baby.
+C: MARC (V.O.)| A surgeon learns very early that there's such a thing as too much.
+A: Howard pulls away from the curb. In his rearview mirror, the black ribbon sways on the empty seat.
+C: MARC (V.O.)| Too much blood. Too much pressure. Too much medicine.
+
+H: INT. QUEENS GRACE HOSPITAL - MAIN LOBBY - MORNING
+T: THURSDAY, DECEMBER 1, 2005 - 6:58 AM
+A: The lobby at shift change. Big Ray Toles (45), Chief of Security, sits behind the front desk with a coffee. The revolving door turns. Three people come through in a precise, unhurried line, with rolling briefcases and identical lanyards.
+A: DR. CONSTANCE ALBRITTON (59), a physician surveyor with silver locs and half-moon glasses. GERALD MAYFIELD, RN (51), a nurse surveyor in a sweater vest, already making notes. DOLORES HASKINS (46), the administrator surveyor, holding a binder.
+C: DR. ALBRITTON| (pleasant, setting a card on the desk)| Good morning. (beat) We're from The Joint Commission. (beat) We'll need to see the CEO and the Chief of Surgery.
+A: Big Ray reads the card. He sets down his coffee very slowly.
+C: BIG RAY| (beat)| Yes, ma'am. (beat) One moment.
+A: He picks up the desk phone and dials.
+C: BIG RAY| (into the phone, low)| Bernie. (beat) It's Ray. (beat) They're here.
+C: MARC (V.O.)| And we learn that the most dangerous moment for any patient...
+A: In the mezzanine above, half hidden behind a pillar, Whitlow (56) watches the three surveyors with his tea cup in his hand. He smiles.
+C: MARC (V.O.)| ...is when somebody's sure they know exactly how much it can take.
+X: END OF COLD OPEN
+
+X: ACT ONE
+
+H: INT. QUEENS GRACE HOSPITAL - CHIEF'S OFFICE - MORNING
+T: THURSDAY, DECEMBER 1, 2005 - 7:09 AM
+A: Natasha (47), in a navy suit and pearls, sits across from Dr. Albritton at the conference table. Bassett (47) and Bernie (55) sit beside her. Mayfield and Haskins take notes.
+C: DR. ALBRITTON| This is a for-cause, unannounced survey, Dr. Donohue, in response to a complaint. (beat) We'll use tracer methodology. We'll pick patients and follow their care through the building: every handoff, every chart, every person who touched them. (beat) We'll interview staff at random. Residents. Nurses. Housekeeping.
+C: NATASHA| (calm)| Of course. (beat) Bernie has a conference room ready for you, and every record you ask for will be delivered within the hour. (beat) Including the files of my son.
+A: Albritton looks up over her glasses.
+C: DR. ALBRITTON| (beat)| You're aware that's the subject of the complaint.
+C: NATASHA| (beat)| I'm aware, Dr. Albritton. (beat) I'm also aware that you didn't come here to take my word for anything. (beat) So look anywhere you like.
+C: BASSETT| (smoothly, sliding a binder across)| Every case Dr. Bullock has scrubbed since July first. Attestations. Evaluations. The service firewall memo of November ninth.
+C: DR. ALBRITTON| (opening it, beat)| You did this before we arrived.
+C: NATASHA| (beat)| I did it before you were invited.
+A: Albritton closes the binder and studies Natasha for a long beat.
+C: DR. ALBRITTON| (standing)| We'll start on the floors.
+
+H: INT. QUEENS GRACE HOSPITAL - INTERNS' LOCKER ROOM - MORNING
+T: THURSDAY, DECEMBER 1, 2005 - 7:16 AM
+A: The interns change in a state of quiet panic. Arianna (26) sits on the bench with the flashcards, gray-faced, eyes red from too little sleep. Raven (25) watches her. Marc (26), Harmony (26), Amond (26) and Esther (26). Kennerly (27) at the end of the bench.
+C: HARMONY| (pulling on her scrub top)| Three of them. Big Ray said the doctor has locs and "the eyes of a Baptist deaconess."
+C: AMOND| (dry)| So we're dead.
+C: ESTHER| (to Marc)| Are you okay?
+C: MARC| (beat)| I'm the reason they're here. (beat) I'm great.
+C: RAVEN| (to Arianna)| How many hours did you sleep?
+C: ARIANNA| (not looking up)| Enough.
+C: RAVEN| How many?
+C: ARIANNA| (beat)| Three. (beat) It's eleven days, Raven. Eleven days, and I'm still missing renal.
+C: RAVEN| (taking the cards gently from her hands)| You're not missing renal. You're missing sleep. (beat) These are mine until lunch.
+C: ARIANNA| (beat, reaching)| Give them back.
+C: RAVEN| (putting them in her own locker and spinning the dial)| Happy early birthday to me.
+A: Arianna stares at the locked locker. Kennerly, at the end of the bench, has been listening to everything. He stands, closes his locker and leaves without a word.
+
+H: INT. QUEENS GRACE HOSPITAL - SURGICAL FLOOR - NURSES' STATION - MORNING
+T: THURSDAY, DECEMBER 1, 2005 - 7:27 AM
+A: Elxa (28), thirty weeks pregnant, her belly now enormous, sits on the stool with her feet up on a box of gloves. Lowery (58) stands beside her. The interns gather.
+C: ELXA| The Joint Commission is in the building. (beat) Here's what that means. (beat) You do everything exactly the way you're supposed to do it, every time. (beat) Time-outs before every incision. Hand hygiene in and out of every room. Signed orders. Dated orders. Timed orders. (beat) If a surveyor asks you a question and you don't know the answer, you say, "I don't know, but here's how I'd find out." (beat) You do not guess. You do not lie. You do not be interesting.
+C: LOWERY| (gently)| They aren't the enemy. (beat) They're just a mirror. (beat) Show them a good face.
+C: ELXA| Bullock, Smilley: Lowery. Ellison: Gyn, with Dr. Hartwell. (beat) Divine: Ortho. Baker: Medicine, cardiology consults. Cummings: me. (beat) Kennerly: ER. (beat) Go.
+A: The interns move. Elxa winces and shifts on the stool. Lowery glances at her.
+C: LOWERY| (low)| Thirty weeks.
+C: ELXA| (beat)| Thirty weeks, Abraham. And my first Lamaze class is Monday. (beat) Don't look at me like that.
+C: LOWERY| (beat)| Like what?
+C: ELXA| Like I'm a patient.
+
+H: INT. QUEENS GRACE HOSPITAL - EMERGENCY DEPARTMENT - BAY 6 - MORNING
+T: THURSDAY, DECEMBER 1, 2005 - 7:51 AM
+A: JERMAINE "JAWS" BIGGS (27), a big, round-faced man in a T-shirt that reads "JAWS OF JAMAICA -- 2005 WING KING," lies on the gurney, groaning, his belly hugely distended and drum-tight. His mother, MRS. ANNETTE BIGGS (52), a corrections officer in uniform, stands beside him with her arms crossed. Lowery, Marc and Esther are at the bedside.
+C: ANNETTE| (furious)| The Sutphin Boulevard Wing Showdown. (beat) Last night. Eleven o'clock. (beat) He ate one hundred and seventy-three chicken wings in twelve minutes, then drank a gallon of iced tea and came home and threw up on my couch.
+C: JERMAINE| (groaning)| One seventy-four, Ma. (beat) They didn't count the last one.
+C: MARC| (palpating gently)| Mr. Biggs, when did you last throw up?
+C: JERMAINE| (beat)| Midnight. (beat) Then I couldn't anymore. I tried. (beat) Nothing would come up.
+A: Marc and Lowery exchange a look. Esther slides the stethoscope over the belly.
+C: ESTHER| (beat)| Tympanic. High-pitched. (beat) Then nothing.
+C: MARC| (to Lowery)| Acute gastric dilatation. He overloaded his stomach until the wall stretched and the outlet kinked. (beat) He can't vomit, he can't empty it. (beat) If the pressure gets too high, the wall loses its blood supply.
+C: LOWERY| (beat)| And then?
+C: MARC| (beat)| Then it dies. (beat) Then it ruptures.
+C: LOWERY| (calm)| NG tube. Big bore. Now. (beat) Labs, lactate, upright film, CT if he'll fit.
+A: Marc slides the nasogastric tube in. A beat. Then the canister on the wall begins to fill with brown fluid, one liter, two, three. Jermaine sags with relief.
+C: JERMAINE| (beat)| Oh, God. (beat) Oh, thank you, Jesus.
+C: ANNETTE| (beat, softening)| Is he going to be okay?
+C: LOWERY| (watching the canister)| Ask me after the CT, Mrs. Biggs.
+A: Behind the curtain, Gerald Mayfield, RN, the nurse surveyor, writes something on his clipboard.
+
+H: INT. QUEENS GRACE HOSPITAL - MEDICINE FLOOR - ROOM 714 - MORNING
+T: THURSDAY, DECEMBER 1, 2005 - 8:14 AM
+A: A double room on Whitlow's Medicine floor. MR. AMBROSE TATE (79), a retired Pullman porter, gaunt and confused, sits slumped in his bed, picking at the sheet. His daughter, CELESTINE TATE-MOORE (50), a bank manager, is beside him. Dr. Philip Grant (29), the medicine resident, stands with Amond, who has been called down from cardiology.
+C: DR. GRANT| Admitted Tuesday for confusion and a fall. (beat) Heart rate thirty-eight this morning. We think it's sick sinus, so we called you for a pacemaker evaluation.
+A: Amond looks at the monitor, then at the old man.
+C: AMOND| (kneeling by the bed)| Mr. Tate. (beat) How are you feeling, sir?
+C: AMBROSE| (vague)| Sick to my stomach. (beat) And everything's yellow. (beat) The lights. Your face. (beat) Like the sun's gone down wrong.
+A: Amond goes very still.
+C: AMOND| (beat, to Dr. Grant)| Yellow vision. (beat) Nausea, confusion, bradycardia. (beat) What's his digoxin level?
+C: DR. GRANT| (beat)| We started him on digoxin Tuesday night for his atrial fibrillation. (beat) Point-one-two-five. Standard dose.
+C: CELESTINE| (frowning)| He already takes digoxin. (beat) Dr. Okafor in Harlem has had him on it for nine years. Point-two-five. I bring him his pill box every morning. (beat) I told the nurse in the ER on Tuesday. I wrote it down for her.
+A: A terrible silence. Dr. Grant opens the chart, flipping pages, faster and faster.
+C: AMOND| (quietly)| Mr. Tate's been getting double digoxin for two days. (beat) Draw a level, stat. (beat) Get potassium. (beat) And call pharmacy for Digibind.
+A: In the doorway, unnoticed, Gerald Mayfield stops writing.
+
+H: INT. QUEENS GRACE HOSPITAL - GYNECOLOGY CLINIC - EXAM ROOM 3 - MORNING
+T: THURSDAY, DECEMBER 1, 2005 - 8:42 AM
+A: MS. GERALDINE TOOMER (52), the organist at Greater Allen A.M.E. in Jamaica, sits on the exam table in a gown with a tent-sized hospital blanket across her lap. Her abdomen is enormous, as round and tight as a woman carrying triplets at term. Clayton (34) and Raven study the CT on the light box.
+C: CLAYTON| (gently)| Ms. Toomer. When did you first notice the swelling?
+C: GERALDINE| (ashamed, not meeting their eyes)| Two years ago. (beat) I thought it was the change. I thought I was getting fat. (beat) I went up a dress size every few months. (beat) The ladies at church started making comments. So I stopped going to the fellowship dinners.
+C: RAVEN| (softly)| Have you been able to see your feet?
+C: GERALDINE| (beat, tears rising)| Not since last Easter.
+A: Raven looks at the CT. A single enormous cyst with septations fills the entire abdomen from the pelvis to the diaphragm.
+C: CLAYTON| (to Raven)| Size?
+C: RAVEN| (beat)| Thirty-four by twenty-nine centimeters. (beat) Multiloculated. Ovarian origin. (beat) No ascites, no nodularity, normal CA-125. (beat) Most likely a mucinous cystadenoma.
+C: CLAYTON| Benign?
+C: RAVEN| (beat)| Most likely benign. (beat) We won't know until pathology.
+C: GERALDINE| (barely)| Is it a baby? (beat) The ladies said I must be hiding a baby.
+C: CLAYTON| (sitting beside her, warmly)| It's not a baby, Ms. Toomer. (beat) It's a tumor that grew from your ovary. It's probably not cancer. (beat) It probably weighs forty pounds. (beat) And tomorrow morning you're going to see your feet.
+A: Geraldine covers her face and weeps. Raven puts a hand on her back.
+
+H: INT. QUEENS GRACE HOSPITAL - CHIEF OF MEDICINE'S OFFICE - MORNING
+T: THURSDAY, DECEMBER 1, 2005 - 9:08 AM
+A: Whitlow pours tea from his gold-rimmed set, humming. A knock. Dr. Grant stands in the doorway, white-faced, holding a chart.
+C: WHITLOW| (not looking up)| Dr. Grant. (beat) Shouldn't you be on the floor? We have guests.
+C: DR. GRANT| (barely)| Dr. Whitlow. (beat) Mr. Tate in 714. (beat) He was on home digoxin. His daughter told the ER nurse. It never made it to our admission orders. (beat) I started him on digoxin on top of it Tuesday night.
+A: Whitlow sets down the teapot.
+C: DR. GRANT| (beat)| His level is four-point-one. (beat) Dr. Baker from surgery caught it. (beat) He's getting Digibind now.
+C: WHITLOW| (beat, carefully)| Is he stable?
+C: DR. GRANT| (beat)| He will be. (beat) Sir. (beat) The nurse surveyor was in the doorway when Baker asked for the level. (beat) He asked me for the medication reconciliation form.
+C: WHITLOW| (very quiet)| And?
+C: DR. GRANT| (beat)| We don't have one, sir. (beat) We were supposed to have it in place this year. National Patient Safety Goal eight. (beat) We were going to have it done by January.
+A: Whitlow stands motionless, the teacup in his hand. The tea goes cold.
+
+H: INT. QUEENS GRACE HOSPITAL - RADIOLOGY - CT READING ROOM - MORNING
+T: THURSDAY, DECEMBER 1, 2005 - 9:31 AM
+A: Lowery, Marc and Esther behind the radiologist. On the screen: Jermaine's stomach, decompressed but abnormal. Its wall is thin and gray, with gas bubbles inside the wall itself, and a small pocket of free air above the liver.
+C: RADIOLOGIST| (quietly)| Pneumatosis of the gastric wall along the greater curvature. (beat) And free air. (beat) It's perforated.
+C: ESTHER| (beat)| The NG came too late.
+C: LOWERY| (beat)| The NG came at seven-fifty. (beat) His stomach started dying at midnight on his mother's couch. (beat) Book the OR.
+A: The door opens. Dr. Albritton steps in, her lanyard visible, holding a slim folder.
+C: DR. ALBRITTON| (pleasant)| Dr. Lowery. Dr. Bullock. (beat) Dr. Smilley, I believe.
+A: They all turn.
+C: DR. ALBRITTON| (beat)| We're going to trace Mr. Biggs's care today. (beat) From the ER through the OR to recovery. (beat) I'll be observing the procedure from the gallery.
+A: Marc looks at Lowery. Lowery doesn't blink.
+C: LOWERY| (evenly)| You're very welcome, Doctor. (beat) Dr. Bullock will be first assist.
+A: Albritton writes one word in her folder. Marc can't see what it is.
+X: END OF ACT ONE
+
+X: ACT TWO
+
+H: INT. QUEENS GRACE HOSPITAL - OR 4 - DAY
+T: THURSDAY, DECEMBER 1, 2005 - 10:12 AM
+A: Jermaine, intubated and draped. Above in the gallery, alone behind the glass, Dr. Albritton sits with her folder. Lowery, Marc and Esther stand at the table, gowned, with the scrub nurse, the circulator and the anesthesiologist.
+C: CIRCULATOR| (reading from the clipboard)| Time-out. (beat) Patient: Jermaine Biggs. Date of birth August 20, 1978. (beat) Procedure: exploratory laparotomy, possible partial gastrectomy. (beat) Consent signed. Antibiotics given at nine-fifty-eight. No allergies. (beat) Site: abdomen, midline.
+C: MARC| (clearly)| Agreed.
+C: LOWERY| Agreed.
+C: ESTHER| Agreed.
+C: ANESTHESIOLOGIST| Agreed.
+A: Lowery hands Marc the scalpel. Above, Albritton leans forward.
+C: LOWERY| (calm)| Dr. Bullock. Midline. Xiphoid to umbilicus.
+A: Marc makes a long, clean incision. Electrocautery through the fascia. The peritoneum opens. A gush of murky fluid and the smell of chicken wings and bile. Esther suctions.
+C: MARC| (focused)| Spillage, all four quadrants. (beat) There. (beat) Greater curvature. A ten-centimeter segment of necrosis, black. (beat) A two-centimeter perforation at the center. (beat) The rest of the stomach is pink. The short gastrics are pulsing.
+C: LOWERY| (beat)| Plan?
+C: MARC| (beat)| Wedge resection of the necrotic segment with a linear stapler, to bleeding margins. (beat) Check the fundus and the posterior wall through the lesser sac. Washout, at least six liters. (beat) Then a feeding jejunostomy, because he won't be eating chicken wings, or anything else, for a while.
+C: LOWERY| (beat, to the scrub nurse)| GIA eighty. (beat) Give it to Dr. Bullock.
+A: Marc fires. Once, twice, three times. Each staple line is perfect. Lowery barely touches an instrument. Above, Albritton watches, and her pen doesn't move.
+C: LOWERY| (low, eyes on the field)| She's watching your hands, Marc. (beat) Not your last name.
+C: MARC| (beat)| I know.
+C: LOWERY| (beat)| So give her nothing else to look at.
+
+H: INT. QUEENS GRACE HOSPITAL - MEDICINE FLOOR - ROOM 714 - DAY
+T: THURSDAY, DECEMBER 1, 2005 - 10:36 AM
+A: Ambrose Tate, on the monitor. The Digibind infusion runs into his arm. Amond watches the heart rate climb: forty-two, forty-eight, fifty-six. Celestine holds her father's hand. Gerald Mayfield stands quietly in the corner.
+C: AMOND| (to Celestine)| The antibody binds the digoxin in his blood so his body can clear it. (beat) His heart rate's coming up. (beat) In a few hours, the yellow should fade.
+C: AMBROSE| (blinking, clearer)| Young man. (beat) Your face isn't yellow anymore. (beat) It's brown.
+C: AMOND| (beat, smiling)| That's the right color, Mr. Tate.
+C: AMBROSE| (beat)| I carried bags for forty-one years on the Twentieth Century Limited and the Broadway Limited. (beat) You know what I learned? (beat) Too many hands on one man's bag, and somebody always leaves it on the platform.
+A: Mayfield, in the corner, writes that down. Then he steps forward.
+C: MAYFIELD| (to Amond, politely)| Dr. Baker. You're a surgical intern. (beat) How did you know to ask about home medications?
+C: AMOND| (beat)| Because he told me the lights were yellow, sir. (beat) Digoxin toxicity causes xanthopsia. (beat) And because my mother is Harriet Baker-Fenwick of Baldwin Hills. (beat) She made me recite every pill in my grandmother's cabinet every Sunday when I was ten. (beat) The pills you don't know about are the ones that kill people.
+A: Mayfield looks at him for a beat. Then he nods once.
+C: MAYFIELD| (beat)| Thank you, Doctor.
+
+H: INT. QUEENS GRACE HOSPITAL - ORTHOPEDICS - CAST ROOM - DAY
+T: THURSDAY, DECEMBER 1, 2005 - 10:58 AM
+A: Camille (29) wraps a fiberglass cast around a teenage boy's forearm while Harmony holds the arm in position. Camille's cell phone buzzes in her scrub pocket. She glances at it. "PAPA." She doesn't answer. It buzzes again. Then again.
+C: HARMONY| (quietly)| Third time.
+C: CAMILLE| (wrapping, too brightly)| He wants to know if I'm coming to Canarsie Sunday.
+A: The phone buzzes again. A text. Camille reads it with one hand. Her face drains.
+C: HARMONY| Camille?
+C: CAMILLE| (beat, sliding the phone back, finishing the cast)| You're all done, chief. (to the boy) No basketball for six weeks, and don't stick a coat hanger down there when it itches.
+A: The boy leaves with his mother. Camille stands at the sink, washing fiberglass resin off her hands, scrubbing much too long.
+C: HARMONY| (beat)| What did he say?
+C: CAMILLE| (beat, not turning, flat)| "I am coming to the hospital at one o'clock. (beat) We will talk about the kitchen."
+
+H: INT. QUEENS GRACE HOSPITAL - ON-CALL ROOM 2 - DAY
+T: THURSDAY, DECEMBER 1, 2005 - 11:21 AM
+A: Arianna, on the bottom bunk, trying to read a review book with her eyes closing. The door opens. Raven comes in with a turkey sandwich and a carton of chocolate milk.
+C: RAVEN| Eat this.
+C: ARIANNA| (not looking up)| Not hungry.
+C: RAVEN| (sitting on the bunk)| You haven't eaten since yesterday at four. (beat) I counted. (beat) Your hands were shaking holding a retractor for Elxa. She noticed. She sent me.
+C: ARIANNA| (beat)| I have eleven days.
+C: RAVEN| (opening the milk)| And you're going to spend them falling apart. (beat) Arianna. You've done eighteen hundred questions. (beat) You were three points short in October when you were sleeping four hours a night through a hurricane and a train crash. (beat) What you need now is not more. (beat) It's less.
+A: Arianna looks at her. Something in her face finally gives.
+C: ARIANNA| (barely)| If I fail again...
+C: RAVEN| (beat)| Then I'll still be here. (beat) And you'll take it a third time. (beat) And I'll make a hundred more purple cards.
+A: Arianna takes the sandwich. She eats half of it in four bites.
+C: ARIANNA| (mouth full)| Today's your birthday-eve-eve.
+C: RAVEN| (beat)| Don't.
+C: ARIANNA| (beat)| They're planning something at the house. (beat) It's big. (beat) Marc ordered a cake from Make My Cake.
+C: RAVEN| (horrified)| How big?
+C: ARIANNA| (beat, chewing)| Much too much.
+
+H: INT. QUEENS GRACE HOSPITAL - SURGICAL FLOOR - CONFERENCE ROOM B - DAY
+T: THURSDAY, DECEMBER 1, 2005 - 11:44 AM
+A: A small room, blinds drawn. Dolores Haskins, the administrator surveyor, sits behind a table with an interview form. Across from her, in his white coat, sits Kennerly.
+C: HASKINS| (reading)| Dr. Kennerly. Surgical intern, PGY-1. (beat) You're on academic probation.
+C: KENNERLY| (beat)| Yes, ma'am.
+C: HASKINS| (beat)| For what?
+C: KENNERLY| (beat)| Unprofessional conduct. (beat) I was cruel to a patient's family in September. (beat) I deserved it.
+A: Haskins makes a note.
+C: HASKINS| (beat)| We're interviewing residents about supervision and evaluation in this department. (beat) In your observation, has Dr. Marc-Anthony Bullock received preferential treatment because of his family?
+A: A long beat. Kennerly looks down at his hands. It would be so easy.
+C: KENNERLY| (finally)| No, ma'am.
+C: HASKINS| (beat)| No?
+C: KENNERLY| (beat, looking up)| I've wanted him to have. (beat) For five months, I've looked for it. I wanted it to be true so badly I told the whole cafeteria. (beat) He got the cases because he was ready for them. He got the compliments because he earned them. (beat) He's better than me. (beat) That's the only preferential treatment I've ever seen him get.
+A: Haskins stops writing and looks at him.
+C: HASKINS| (beat)| You told the cafeteria.
+C: KENNERLY| (beat)| Yes, ma'am.
+C: HASKINS| (beat)| How did you know?
+A: Kennerly's jaw tightens. He thinks of a tea set with gold rims. He thinks of "We don't really know each other, do we?"
+C: KENNERLY| (beat, quietly)| I'd like to answer that honestly, ma'am. (beat) But I think I need to talk to the hospital's lawyer first.
+X: END OF ACT TWO
