@@ -1,0 +1,247 @@
+H: INT. QUEENS GRACE HOSPITAL - CHIEF'S OFFICE - MORNING
+T: FRIDAY, DECEMBER 9, 2005 - 8:47 AM
+A: Natasha (47) at her desk, the snow piling up on the windowsill. A knock. Whitlow (56) stands in the doorway without his tea. He looks older than he did a week ago.
+C: NATASHA| (beat)| Horace.
+C: WHITLOW| (stiffly)| The Evidence of Standards Compliance is due January fifteenth. (beat) Medication reconciliation. (beat) A form at admission, pharmacist review within twenty-four hours, reconciliation at every transfer and at discharge.
+C: NATASHA| (beat)| That sounds like a good plan.
+C: WHITLOW| (beat)| My residents will have to be trained. (beat) Forty-one of them, in five weeks. (beat) I'd like a surgeon to present the Tate case at Medicine Grand Rounds on the twentieth. (beat) The one who caught it.
+A: Natasha looks at him for a long moment.
+C: NATASHA| (beat)| You want Amond Baker to stand in front of your entire department and tell them what they missed.
+C: WHITLOW| (beat, quietly)| I want them to hear it from someone who isn't me. (beat) They don't listen to me this month, Natasha. (beat) I imagine you understand why.
+C: NATASHA| (beat)| I'll ask Dr. Baker. (beat) If he says yes, it's because he wants to. Not because I asked.
+C: WHITLOW| (beat, turning to go)| Of course. (beat) Nothing in this hospital ever happens because you asked.
+A: He's gone. Natasha looks at the door, unsure whether that was an insult or a white flag.
+
+H: INT. QUEENS GRACE HOSPITAL - LABOR AND DELIVERY - ROOM 3 - MORNING
+T: FRIDAY, DECEMBER 9, 2005 - 9:14 AM
+A: Alarms. Tamika gasps, clutching her belly. Bright red blood spreads across the sheet. On the monitors, one of the five tracings plunges. The nurse slams the call button.
+C: CLAYTON| (instantly)| Abruption. (beat) Baby A's heart rate is sixty. (beat) We're going. (beat) Call a crash section, OR 2. (beat) Call NICU, five teams, now. Five.
+C: TAMIKA| (screaming)| No, no, it's too early, it's too early!
+C: ANDRE| (panicked)| What's happening? What's happening?
+C: CLAYTON| (unlocking the bed, already rolling)| The placenta's pulling away, Mr. Wardell. (beat) Your babies are coming now.
+A: Marc grabs the phone on the wall.
+C: MARC| (into the phone)| NICU. This is Bullock with Dr. Crump. Five neonates, twenty-nine weeks, crash section in OR 2. (beat) Five warmers. Five teams. Two minutes.
+A: The bed hurtles out the door. Andre runs beside it, holding Tamika's hand until a nurse stops him at the red line. He stands there in the hallway, alone, as the doors swing shut.
+X: END OF ACT ONE
+
+X: ACT TWO
+
+H: INT. QUEENS GRACE HOSPITAL - OR 2 - DAY
+T: FRIDAY, DECEMBER 9, 2005 - 9:21 AM
+A: Controlled chaos. Five radiant warmers line the wall, labeled A through E in black marker on tape. At each warmer, a neonatal team: Crump at A, Elxa at B with Arianna, NICU fellows at C and D, and Marc at E with a NICU nurse. Clayton, gowned, makes the incision. Tamika is under general anesthesia.
+C: CLAYTON| (fast)| Uterus open. (beat) Baby A. (beat) Girl. Floppy.
+A: A tiny gray infant, smaller than a hand, is passed to Crump's warmer. Crump starts positive pressure ventilation with a mask the size of a thimble.
+C: CLAYTON| Baby B. Boy. (beat) Crying.
+A: A thin, angry wail. Elxa catches him. Arianna dries and stimulates.
+C: CLAYTON| Baby C. Girl. (beat) Baby D. Boy. (beat) Baby E. (beat) Boy. (beat) Small.
+A: The last baby comes out and is passed to Marc. He is astonishingly small: a pound and a half, translucent skin, no tone, no breath. Marc lays him on the warmer and dries him. Nothing.
+C: MARC| (calm, fast)| Baby E. No respiratory effort. Heart rate... (beat, listening) Fifty. (beat) Bag him.
+A: The NICU nurse squeezes the tiny bag. The chest doesn't rise.
+C: NICU NURSE| No chest rise.
+C: MARC| (repositioning the mask)| Reposition. Open the mouth. Increase pressure. (beat) Tube. Two-point-five.
+A: He takes the laryngoscope. The blade is like a toy. He slides it in, lifts, sees the cords, a slit the width of a pencil lead, and passes a tube thinner than a coffee stirrer.
+C: MARC| (beat)| I'm in.
+A: The nurse bags. The chest rises. Marc listens.
+C: MARC| (beat)| Heart rate eighty. (beat) Ninety. (beat) Surfactant.
+A: Across the room, Crump looks over from Baby A, who has pinked up, and meets Marc's eyes for a split second.
+C: CRUMP| (calm)| Report, Dr. Bullock.
+C: MARC| (squeezing surfactant down the tube)| Baby E, intubated, heart rate a hundred and ten, surfactant in. (beat) Seven hundred grams, maybe less.
+C: CRUMP| (beat)| Then let's get them all upstairs.
+
+H: INT. QUEENS GRACE HOSPITAL - ENDOSCOPY SUITE - DAY
+T: FRIDAY, DECEMBER 9, 2005 - 9:58 AM
+A: Tanya, sedated, on her side. The gastroenterologist steers the scope. On the monitor: the stomach lining, and one AA battery resting in a fold. A wire basket opens around it and draws it up and out. Amond and Kennerly watch. Lowery reviews a new X-ray on the viewing box.
+C: GI ATTENDING| (pulling the scope)| One battery. (beat) Where's the other one?
+A: Lowery taps the X-ray. A bright cylinder sits in the right lower abdomen, along with the pen clip.
+C: LOWERY| (beat)| The second battery passed the pylorus before she got here. (beat) It's in the distal ileum, near the valve. (beat) The pen clip's beside it.
+C: AMOND| (beat)| It'll pass.
+C: LOWERY| Probably. (beat) Serial films every six hours. (beat) If it stops moving, if she gets a fever, if her belly changes, we go in.
+C: KENNERLY| (quietly, to Amond)| You really hate her, huh?
+C: AMOND| (beat, peeling off his gloves)| I don't hate her. (beat) I don't think about her. (beat) There are five babies upstairs who didn't swallow anything.
+A: Kennerly looks at Amond for a beat.
+C: KENNERLY| (beat)| You know I was on probation for not giving a damn about a patient's family, right? (beat) Just checking which side of that line you want to be on.
+A: Amond stops. Then he walks out without answering.
+
+H: INT. QUEENS GRACE HOSPITAL - CARDIAC STEP-DOWN - ROOM 609 - DAY
+T: FRIDAY, DECEMBER 9, 2005 - 10:32 AM
+A: Dash sits up in bed with a towel around his shoulders. Raven stands behind him with a pair of clippers she borrowed from the barber in the hospital lobby, carefully edging his hairline. His milrinone pump clicks quietly.
+C: DASH| (eyes closed, blissful)| Oh, that's it. (beat) That's it right there.
+C: RAVEN| (concentrating)| Hold still. (beat) If I mess up your line, you'll have a crooked part when they bring you a heart.
+C: DASH| (beat)| They bring you a heart, you don't care about your part.
+C: RAVEN| (beat, smiling)| You'd care.
+C: DASH| (beat)| Yeah. I'd care.
+A: Raven brushes the clippings off his neck. He opens his eyes and looks at her in the hand mirror she holds up.
+C: DASH| (beat)| There he is. (beat) That's Dash Duvall. (beat) I'd forgotten what he looked like.
+C: RAVEN| (beat)| What was he like? Before?
+C: DASH| (beat, still looking in the mirror)| Loud. (beat) Stayed up too late. Danced at weddings he wasn't invited to. (beat) Came to New York for a sneaker convention at the Javits Center in October and fainted face-first into a limited-edition display. (beat) Woke up in your ICU. (beat) Never made it home.
+A: Raven sets the mirror down. Her hand rests on his shoulder a beat too long. Dash notices.
+C: DASH| (softly)| Dr. Ellison.
+C: RAVEN| (taking her hand away)| Vitals in two hours, Mr. Duvall.
+C: DASH| (beat, grinning)| Dash.
+C: RAVEN| (at the door, not turning around)| Vitals in two hours, Dash.
+
+H: INT. QUEENS GRACE HOSPITAL - NICU - DAY
+T: FRIDAY, DECEMBER 9, 2005 - 11:09 AM
+A: Five isolettes in a row, labeled with pink and blue cards: WARDELL A, B, C, D, E. Monitors beep. Ventilators hiss. Crump moves from isolette to isolette with a NICU attending. Marc stands at E, watching a monitor. Elxa, at B, leans against the wall, a hand on her own belly, breathing carefully.
+C: CRUMP| (reviewing)| A, eleven hundred grams, on CPAP. B, twelve hundred, crying at us, God bless him. C, a thousand. (beat) D, nine-fifty, with a gastroschisis. His bowel's outside his belly. We'll silo him this afternoon. (beat) E...
+C: MARC| (quietly)| Six hundred and eighty grams. (beat) His head ultrasound shows a grade four bleed on the left. (beat) Grade three on the right.
+A: Crump comes to stand beside him. They look at the tiny boy in the isolette, his chest moving with each puff of the ventilator.
+C: CRUMP| (beat)| Do you know what that means, Dr. Bullock?
+C: MARC| (beat)| It means even if he lives, he probably won't walk. (beat) Or see. (beat) Or know who his mother is.
+C: CRUMP| (gently)| It means we keep him comfortable and we tell his parents the truth. (beat) Gently. (beat) Today.
+A: Marc looks at the baby.
+C: MARC| (beat)| Can I be the one who tells them?
+C: CRUMP| (beat, studying him)| Why?
+C: MARC| (beat)| Because I put the tube in. (beat) Because if I'm the one who kept him alive, I should be the one who tells them how much.
+
+H: INT. QUEENS GRACE HOSPITAL - ON-CALL ROOM 2 - DAY
+T: FRIDAY, DECEMBER 9, 2005 - 11:38 AM
+A: Arianna on the bottom bunk with flashcards. Raven comes in, flushed, and sits on the edge of the bunk. She can't stop smiling.
+C: ARIANNA| (not looking up)| What.
+C: RAVEN| Nothing.
+C: ARIANNA| (beat)| You're smiling like you just found twenty dollars in a coat.
+C: RAVEN| (beat)| I gave a patient a line-up.
+C: ARIANNA| (looking up now)| A patient.
+C: RAVEN| (beat)| Cardio. (beat) Transplant list. (beat) He's funny. He hadn't had a haircut since Thanksgiving.
+A: Arianna puts down the cards.
+C: ARIANNA| (beat)| What's his name?
+C: RAVEN| (beat)| Darius Duvall. (beat) Dash.
+C: ARIANNA| (beat, flat)| Dash.
+C: RAVEN| He's a patient, Problem.
+C: ARIANNA| (picking up the cards again)| Then why'd you say his nickname like it was a song?
+A: Raven opens her mouth and doesn't answer. Arianna flips a card without reading it.
+
+H: INT. QUEENS GRACE HOSPITAL - ORTHOPEDICS - CAST ROOM - DAY
+T: FRIDAY, DECEMBER 9, 2005 - 12:02 PM
+A: Snow-day carnage: three wrist fractures waiting on chairs in the hall. Harmony wraps a plaster splint on an elderly man's wrist. Camille (29) reads films at the light box. Harmony's phone buzzes in her pocket. She freezes.
+C: CAMILLE| (without turning)| Answer it, Choir.
+A: Harmony fumbles the phone out with plaster-covered fingers.
+C: HARMONY| (into the phone)| This is Dr. Divine. (beat) Yes. (beat) Yes, I'm his daughter. (beat) I'm a doctor. You can tell me the numbers.
+A: She listens. Camille turns from the light box and watches her face.
+C: HARMONY| (beat)| Six millimeters. (beat) Solid. Smooth margins. (beat) No lymph nodes. (beat) Same size as the X-ray in September. (beat) Repeat CT in six months. (beat) June. (beat) Thank you. (beat) Thank you, Doctor.
+A: She hangs up. She stands very still, plaster on her hands.
+C: HARMONY| (barely)| It's the same size. (beat) Three months and it didn't grow. (beat) They want to look again in June.
+C: CAMILLE| (beat)| That's good, Choir.
+C: HARMONY| (beat, her voice cracking)| It's not "it's nothing." (beat) It's "come back in June."
+C: CAMILLE| (crossing to her)| It's "come back in June," baby. (beat) That means there's a June.
+A: Harmony laughs, a wet, startled laugh, and Camille hugs her, plaster and all. The old man with the splinted wrist looks on approvingly.
+C: OLD MAN| (beat)| Good news?
+C: HARMONY| (into Camille's shoulder)| My daddy's got a June.
+
+H: INT. QUEENS GRACE HOSPITAL - SURGICAL WARD - ROOM 418 - DAY
+T: FRIDAY, DECEMBER 9, 2005 - 12:47 PM
+A: Tanya, handcuffed to the bed rail, curled on her side, sweating. Officer Biggs stands by the window. Amond comes in with the afternoon films and stops. Tanya's face is gray. She's breathing fast.
+C: AMOND| (beat)| Ms. Harrell.
+C: TANYA| (through her teeth)| It's nothing.
+A: Amond puts a hand on her belly. She screams. The belly is rigid, like a board.
+C: AMOND| (beat, sharp, to the nurse in the hall)| Vitals. Now. (beat) Page Dr. Lowery.
+C: NURSE| (reading the monitor)| One-oh-two-point-four. (beat) Heart rate one-thirty.
+A: Amond holds the new X-ray up to the window light. The battery and the pen clip haven't moved. Beneath the diaphragm, a crescent of black air.
+C: AMOND| (quietly)| Free air. (beat) The pen clip perforated the bowel.
+C: OFFICER BIGGS| (beat)| Is she going to die?
+C: AMOND| (beat, already moving)| Not if we're fast. (beat) Uncuff her. She's going to the OR.
+C: OFFICER BIGGS| (beat)| I can't uncuff her, Doctor. Regulations.
+C: AMOND| (turning on her)| Then you're going to scrub in, Officer, because I'm not operating around a handcuff.
+A: Officer Biggs looks at the gray, shaking girl on the bed. Then she takes out her key.
+X: END OF ACT TWO
+
+X: ACT THREE
+
+H: INT. QUEENS GRACE HOSPITAL - OR 5 - DAY
+T: FRIDAY, DECEMBER 9, 2005 - 1:21 PM
+A: Tanya under anesthesia, the abdomen open. Lowery and Amond at the table. Kennerly retracts. The smell of bowel contents. Officer Biggs stands outside the doorway in a paper bunny suit, watching through the window.
+C: LOWERY| (calm)| Run the bowel from the ligament of Treitz.
+A: Amond runs the small bowel hand over hand, inch by inch, until he finds it: a loop of terminal ileum, angry and red, with a ragged hole the plastic pen clip has driven through. The battery sits nearby in the lumen.
+C: AMOND| (beat)| There. (beat) Ten centimeters from the valve. Perforation, a centimeter, contamination localized. (beat) The battery's intact. No leakage.
+C: LOWERY| (beat)| Plan?
+C: AMOND| Small-bowel resection, both foreign bodies with it, primary anastomosis. (beat) Copious washout.
+C: LOWERY| (handing him the stapler)| Do it.
+A: Amond fires. The segment comes out: the battery and the clip inside, a piece of bowel the length of a finger. He drops it into a basin. Clang.
+C: KENNERLY| (low)| She'll be back in the Bing in a week.
+C: AMOND| (sewing)| Probably.
+C: KENNERLY| (beat)| And she'll do it again.
+C: AMOND| (beat)| Probably.
+A: Lowery watches him over his mask.
+C: LOWERY| (beat)| Dr. Baker. When you're done, go ask her why.
+C: AMOND| (beat)| I know why. She wants out of the cell.
+C: LOWERY| (beat)| You know what she did. (beat) Go find out why.
+
+H: INT. QUEENS GRACE HOSPITAL - SECURITY OFFICE - DAY
+T: FRIDAY, DECEMBER 9, 2005 - 1:46 PM
+A: Big Ray, at his desk, is feeding the puppy bits of a turkey sandwich. Bernie (55) leans in the doorway. The puppy, warm now, chases a rolled-up glove around the box.
+C: BERNIE| (beat)| Raymond Toles. (beat) Is that a dog?
+C: BIG RAY| (not looking up)| What dog.
+C: BERNIE| (beat)| The dog eating your sandwich.
+C: BIG RAY| (beat)| That's a security consultant. (beat) Undercover.
+A: Bernie comes in, crouches with surprising grace for a woman in heels, and offers her hand. The puppy licks it, then sneezes.
+C: BERNIE| (softening completely)| Oh, look at her face. (beat) Whose is she?
+C: BIG RAY| (beat)| Dr. Bullock found her in the snow behind Monty's.
+C: BERNIE| (beat)| Which Dr. Bullock?
+C: BIG RAY| (beat)| The one who's not allowed to have her.
+A: Bernie picks up the puppy and holds her to her face.
+C: BERNIE| (beat)| I didn't see a thing.
+C: BIG RAY| That's what I told him.
+
+H: INT. CLAYTON'S SUBLET - BROOKLYN HEIGHTS - LIVING ROOM - DAY
+T: FRIDAY, DECEMBER 9, 2005 - 2:04 PM
+A: Clayton, on a snow-day afternoon off, sits on the sofa going over fetal echo printouts. His cell rings. "ESTHER." He answers.
+C: CLAYTON| (into the phone)| Hey.
+C: ESTHER (V.O.)| (on the phone, fast, in a hospital stairwell)| My mother called. (beat) She asked him. (beat) Malcolm.
+A: Clayton puts the printouts down.
+C: CLAYTON| (carefully)| And?
+C: ESTHER (V.O.)| (beat)| He said yes. (beat) Christmas Eve. Mattapan. (beat) He's bringing sweet potato pies from the church ladies at Twelfth Baptist, like he used to. (beat) My mother cried on the phone. (beat) She said, "There won't be an empty chair."
+A: A long silence. Clayton looks at the snow falling past the window onto Remsen Street.
+C: CLAYTON| (finally)| Esther. (beat) Do you want me to stay in New York?
+C: ESTHER (V.O.)| (beat)| No. (beat) I want you to come. (beat) I want you to sit at that table with him and my mother and my four sisters. (beat) And I want to see who flinches first.
+C: CLAYTON| (beat, almost a laugh)| That's not therapy, Esther. That's a duel.
+C: ESTHER (V.O.)| (beat)| It's Mattapan, Clayton. (beat) It's both.
+
+H: INT. QUEENS GRACE HOSPITAL - CARDIAC STEP-DOWN - ROOM 609 - DAY
+T: FRIDAY, DECEMBER 9, 2005 - 2:27 PM
+A: Robert reviews Dash's echo at the bedside with Raven. Dash, his line-up fresh, is in a good mood. Robert notices the haircut. He looks at Raven.
+C: ROBERT| (beat)| Mr. Duvall has a new haircut.
+C: DASH| (proudly)| Dr. Ellison. (beat) She's an artist.
+C: ROBERT| (beat)| Dr. Ellison. A word.
+A: In the hallway, out of earshot. Robert speaks quietly.
+C: ROBERT| (beat)| I've been doing this for twenty-three years, Dr. Ellison. (beat) A 1A patient waiting for a heart is the loneliest person in a hospital. (beat) He'll fall in love with the first person who treats him like he isn't dying.
+C: RAVEN| (beat)| I gave him a haircut, Dr. Bullock.
+C: ROBERT| (beat)| I know. (beat) And he looked at you in that mirror like you'd given him a heart. (beat) Be his doctor. (beat) That's the only thing that will help him.
+A: Raven looks back through the doorway. Dash, alone, is studying his reflection in the window glass, touching his hairline, smiling.
+C: RAVEN| (barely)| Yes, sir.
+
+H: INT. MONTY'S ON JACKSON - BAR - DAY
+T: FRIDAY, DECEMBER 9, 2005 - 2:52 PM
+A: The bar, warm against the snow outside. A snow-day crowd of off-shift nurses. Monty (43) behind the bar. Esther and Harmony at the bar with coffees on a quick break. Marc comes in, stamping snow, and sits beside them.
+C: MONTY| (to Marc)| I heard you found a dog behind my dumpster.
+C: MARC| (beat)| How did you...
+C: MONTY| (beat)| Ray's daughter's Biscuit used to sleep under my bar. (beat) Ray called me to ask if she was mine. (beat) She's not. (beat) She's yours now.
+C: HARMONY| (delighted)| We're getting a dog?
+C: MARC| (beat)| I didn't say...
+C: ESTHER| (beat)| You put her inside your coat, Marc. (beat) In the snow. (beat) You said "Hey, little girl." (beat) You've already got a dog.
+A: Marc looks at Esther. She looks back. It's the most natural they've been with each other in months.
+C: HARMONY| What are we naming her?
+C: MONTY| (wiping a glass)| Something with dignity. (beat) She came out of a cardboard box behind a bar in a snowstorm. She deserves a name that sounds like somebody wanted her.
+C: MARC| (beat, quietly)| Mercy.
+A: A beat. Esther smiles into her coffee.
+C: ESTHER| (beat)| Mercy.
+C: HARMONY| (beat)| Mercy Bullock. (beat) Mercy Donohue-Bullock. (beat) She's going to be insufferable.
+
+H: INT. QUEENS GRACE HOSPITAL - SURGICAL ICU - BED 6 - DAY
+T: FRIDAY, DECEMBER 9, 2005 - 3:21 PM
+A: Tamika, post-op, pale, an IV in each arm, lies propped up. Andre sits beside her with five Polaroids fanned out on the blanket, one from each isolette. Marc stands at the foot of the bed with Crump.
+C: TAMIKA| (touching each photo)| Aaliyah. (beat) Andre Junior. (beat) Brielle. (beat) Devin. (beat) And Elijah. (beat) We named them in August. Alphabetical. Andre's an accountant.
+C: ANDRE| (smiling weakly)| It's a system.
+C: TAMIKA| (beat, looking at Marc)| You're the one who put the tube in Elijah. (beat) The nurse told me. (beat) You got him breathing.
+C: MARC| (beat)| Yes, ma'am.
+C: TAMIKA| (beat)| Thank you.
+A: Marc looks at Crump. Crump nods once and steps back. Marc comes around and sits on the edge of the bed. Tamika sees his face, and her own face changes.
+C: TAMIKA| (barely)| No.
+C: MARC| (gently)| Mrs. Wardell. (beat) Elijah was born very, very small. Six hundred and eighty grams. (beat) The blood vessels in a baby that small are like wet tissue paper. (beat) When he was born, he had bleeding in his brain. On both sides. It's the most severe kind.
+C: ANDRE| (beat)| What does that mean?
+C: MARC| (beat, holding Tamika's eyes)| It means that we can keep his body going for a while. (beat) But the part of his brain that would let him breathe on his own, and see you, and know you, is very badly damaged. (beat) We don't think he's going to survive. (beat) And if he does, it won't be the life you dreamed for him.
+A: Tamika looks at the fifth Polaroid. Elijah. The smallest.
+C: TAMIKA| (whispering)| Because I said no. (beat) At twelve weeks. (beat) Because I wouldn't reduce.
+C: MARC| (beat, firm)| No, ma'am. (beat) Because he was born at twenty-nine weeks during an abruption, and he was the smallest of five. (beat) You didn't do this. (beat) You gave four of them a chance they wouldn't have had otherwise. (beat) And you gave Elijah a name.
+A: On the monitor at the nurses' station across the unit, an alarm starts to sound. A nurse looks up. Crump turns toward the sound. A NICU nurse appears in the doorway, breathless.
+C: NICU NURSE| Dr. Crump. (beat) Baby E. (beat) He's bradying down.
+X: END OF ACT THREE
